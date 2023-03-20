@@ -30,7 +30,7 @@ Design files are available in this repository. Production files for JLCPCB in th
 	- If you connect while pressing the BOOT button, it'll show again as a mass storage device so you can update the firmware or replace it.
 
 ## To-do:
-- Prototype it! It's currently untested.
+- Use it in a build! Please share pics if you do so. My discord username is Quark#0009
 
 ### Made using the Open Rectangle Template
 OpenRectangleTemplate project] - https://github.com/Armastardo/OpenRectangleTemplate
